@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background-color: blueviolet;
+}
+div {
+    margin-top: 15px;
+}
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color:white;
+}
+h2{
+    font-size: 20px;
+    color: snow;
+}
+h1{
+    font-size:50px;
+    color: lightsalmon;
+}
+img{
+    height:300px;
+    width:300px;
+}
